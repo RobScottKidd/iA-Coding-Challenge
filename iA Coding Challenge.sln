@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iA Coding Challenge", "iA Coding Challenge\iA Coding Challenge.csproj", "{39A38F19-2462-4410-9889-580D8830B057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A38F19-2462-4410-9889-580D8830B057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A38F19-2462-4410-9889-580D8830B057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A38F19-2462-4410-9889-580D8830B057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A38F19-2462-4410-9889-580D8830B057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDD982C-DBC6-48A4-A763-373F552D1A88}
+	EndGlobalSection
+EndGlobal
